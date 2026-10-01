@@ -1,4 +1,6 @@
-git add 
+ss
+
+git add
 
 # public_upload
 
